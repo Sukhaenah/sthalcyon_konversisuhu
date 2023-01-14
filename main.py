@@ -1,6 +1,6 @@
 import streamlit as st
 import sys
-sys.path.insert(1, "C:/app/sthalcyon_konversisuhu/main.py/streamlit_option_menu")
+sys.path.insert(1, "C:/home/appuser/venv/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py")
 
 from streamlit_option_menu import option_menu
 

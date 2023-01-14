@@ -1,7 +1,7 @@
 import streamlit as st
 import sys
 import option_menu
-sys.path.insert(1, "C:/app/sthalcyon_konversisuhu/main.py/streamlit_option_menu")
+sys.path.insert(1, "C:/app/sthalcyon_konversisuhu/main.py/streamlit_option_menu/option_menu")
 from streamlit_option_menu import option_menu
 
 # Navigasi sidebar
